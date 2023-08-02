@@ -1,0 +1,13 @@
+.banner{
+background-color:teal;
+height:80px;
+}
+.banner-text{
+margin-left:20px;
+margin-top:3px;
+padding-top: 18px;
+}
+.banner-text h1{
+font-family: Georgia, serif;
+color:white;
+}
